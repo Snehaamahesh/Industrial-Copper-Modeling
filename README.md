@@ -7,19 +7,12 @@ Enhance your proficiency in data analysis and machine learning with our "Industr
 Table of Contents
 
 Key Technologies and Skills
-Installation
-Usage
-Features
-Contributing
-License
-Contact
-Key Technologies and Skills
 
-Python
-Numpy
-Pandas
-Scikit-Learn
-Matplotlib
-Seaborn
-Pickle
-Streamlit
+Python,
+Numpy,
+Pandas,
+Scikit-Learn,
+Matplotlib,
+Seaborn,
+Pickle,
+Streamlit.
